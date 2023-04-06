@@ -1,0 +1,16 @@
+<form [formGroup]="form"(ngSubmint)="onSubmint">
+    <div class="form-group">
+
+        <label for="nombre">Nombre</label>
+        <input formControlName="nombre"type="text" class="form-control">
+    </div>
+    <div class="form-group">
+        <label for="apellido">Apellido</label>
+        <input formControlName="apellido" type="text" class="form-control">
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input formControlName="email"type="email" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
