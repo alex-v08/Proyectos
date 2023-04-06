@@ -1,0 +1,28 @@
+<form [formGroup]="form"(ngSubmit)="onSubmit()">
+    <div class="form-group">
+    <label class="col-form-label">
+      ID:
+      <input type="text" class="form-control" formControlName="id"name="id" required>
+    </label>
+    <br>
+    <label class="col-form-label">
+      Nombre:
+      <input type="text"class="form-control" formControlName="nombre" name="nombre" required>
+    </label>
+    <br>
+    <label class="col-form-label">
+      Apellido:
+      <input type="text"class="form-control" class="form-control" formControlName="apellido"name="apellido" required>
+    </label >
+    <br>
+    <label class="col-form-label" >
+      Matricula:
+      <input type="number"class="form-control"class="form-control" formControlName="matricula" name="matricula" required>
+    </label>
+    <br>
+    <br>
+    <button type="submit"class="btn btn-primary">Guardar</button>
+    <button type="button" class="btn btn-danger" (click)="onReset()"> Reset </button>
+</div>
+  </form>
+
