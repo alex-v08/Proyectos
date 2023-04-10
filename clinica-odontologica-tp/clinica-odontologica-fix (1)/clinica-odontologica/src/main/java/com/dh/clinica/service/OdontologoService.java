@@ -44,4 +44,10 @@ public class OdontologoService {
     public Odontologo actualizar(Odontologo odontologo) {
         return IOdontologoRepository.save(odontologo);
     }
+
+    public Optional<Object> buscarOdontologo(Integer odontologoId) {
+
+        return Optional.of(IOdontologoRepository.findById(odontologoId));
+
+    }
 }

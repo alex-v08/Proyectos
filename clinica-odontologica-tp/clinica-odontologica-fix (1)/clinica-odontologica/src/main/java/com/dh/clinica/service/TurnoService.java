@@ -46,7 +46,7 @@ public class TurnoService {
         return ITurnoRepository.save(turno);
     }
 
-    public Optional<Turno> buscar(Integer id) {
+    public Optional<Turno> buscar(Long id) {
         return ITurnoRepository.findById(id);
     }
 

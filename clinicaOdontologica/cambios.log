@@ -1,0 +1,113 @@
+[2023-03-13 20:07:50] [ INFO ] [PacienteDAOH2:102] Iniciando la busqueda de un paciente por email: mateo@digitalhouse.com
+[2023-03-13 20:07:51] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-13 20:09:52] [ INFO ] [PacienteDAOH2:102] Iniciando la busqueda de un paciente por email: mateo@digitalhouse.com
+[2023-03-13 20:09:52] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 20:20:50] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 20:20:50] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 20:25:27] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 20:25:28] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 20:27:45] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 20:27:45] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 20:31:24] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 20:31:56] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 20:31:56] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 20:31:56] [ INFO ] [PacienteDAOH2:90] Iniciando una operación de actualizar un paciente
+[2023-03-15 20:31:56] [ INFO ] [DomicilioDAOH2:80] Iniciando una operación de actualizado de un domicilio con id:entity.com.DH.ClinicaOdontologica.Domicilio@6353e5fa
+[2023-03-15 21:01:15] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 21:01:15] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 21:07:04] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 21:07:04] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 21:09:37] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 21:09:37] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 21:10:39] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 21:10:39] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 21:11:48] [ INFO ] [PacienteDAOH2:20] Iniciando una operación de guardado de un Paciente
+[2023-03-15 21:11:48] [ INFO ] [DomicilioDAOH2:21] Iniciando una operación de guardado de un domicilio
+[2023-03-15 21:15:57] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:15:57] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 21:15:57] [ INFO ] [PacienteDAOH2:90] Iniciando una operación de actualizar un paciente
+[2023-03-15 21:15:57] [ INFO ] [DomicilioDAOH2:80] Iniciando una operación de actualizado de un domicilio con id:entity.com.DH.ClinicaOdontologica.Domicilio@236d51ea
+[2023-03-15 21:16:21] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:23:42] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:23:42] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 21:24:11] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:24:22] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:24:34] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:24:34] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 21:24:42] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:25:26] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:25:43] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:25:43] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 21:25:43] [ INFO ] [PacienteDAOH2:90] Iniciando una operación de actualizar un paciente
+[2023-03-15 21:25:43] [ INFO ] [DomicilioDAOH2:80] Iniciando una operación de actualizado de un domicilio con id:entity.com.DH.ClinicaOdontologica.Domicilio@57a8b6ff
+[2023-03-15 21:25:49] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-15 21:25:49] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-15 21:25:58] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 18:46:47] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 18:46:54] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 18:46:54] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-16 18:46:54] [ INFO ] [PacienteDAOH2:90] Iniciando una operación de actualizar un paciente
+[2023-03-16 18:46:54] [ INFO ] [DomicilioDAOH2:80] Iniciando una operación de actualizado de un domicilio con id:entity.com.DH.ClinicaOdontologica.Domicilio@5cdf0975
+[2023-03-16 19:44:35] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-16 19:44:36] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 19:44:36] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-16 19:46:02] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-16 19:46:03] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 19:46:21] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 18
+[2023-03-16 19:50:00] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-16 19:50:00] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 19:50:00] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-16 19:50:00] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-16 19:50:00] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-16 19:50:00] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-16 21:38:27] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-16 21:39:05] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-16 21:43:01] [ INFO ] [OdontologoDAOH2:20] inicializando la operación de guardado un odontologo: Paula
+[2023-03-16 21:43:06] [ INFO ] [OdontologoDAOH2:126] iniciando la busqueda de todos los odontologos de la base de datos
+[2023-03-20 19:31:14] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:31:14] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:31:14] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:31:14] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:31:14] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:31:14] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:32:47] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:32:48] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:33:12] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 100
+[2023-03-20 19:35:14] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:35:14] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:35:14] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:35:14] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:35:14] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:35:14] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:36:44] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:36:44] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:36:44] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:36:45] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:36:45] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:36:45] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:38:56] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:38:56] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:38:57] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:38:57] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:38:57] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 19:38:57] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 19:39:44] [ INFO ] [OdontologoDAOH2:50] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 19:39:44] [ INFO ] [PacienteDAOH2:57] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:20:31] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 21:20:32] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:20:32] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 21:20:32] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 21:20:32] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:20:32] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 21:21:00] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 21:21:00] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:21:00] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 21:21:00] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 1
+[2023-03-20 21:21:00] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:21:00] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 21:22:06] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 21:22:06] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:22:07] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio
+[2023-03-20 21:22:07] [ INFO ] [OdontologoDAOH2:51] inicializando la operación de buscar un odontologo: 2
+[2023-03-20 21:22:07] [ INFO ] [PacienteDAOH2:58] Iniciando una operación de buscar de un Paciente
+[2023-03-20 21:22:08] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de buscar por id a un domicilio

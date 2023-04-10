@@ -1,0 +1,11 @@
+2023-04-03 15:53:54 ERROR GloabalExceptionHandler:25 - could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_RHX8NJNXRSAV4UM2CJSOY0DLI_INDEX_2 ON PUBLIC.ODONTOLOGOS(MATRICULA) VALUES 1"; SQL statement:
+insert into odontologos (apellido, matricula, nombre, id) values (?, ?, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2023-04-04 08:48:52 ERROR GloabalExceptionHandler:25 - No se encontro el odontologo
+2023-04-04 08:49:44 ERROR GloabalExceptionHandler:25 - No se encontro el odontologo
+2023-04-04 08:50:02 ERROR GloabalExceptionHandler:25 - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "1L"
+2023-04-04 08:59:50 ERROR GloabalExceptionHandler:25 - No se encontro el odontologo
+2023-04-05 21:51:41 ERROR GloabalExceptionHandler:25 - Required request body is missing: public org.springframework.http.ResponseEntity<com.dh.clinica.entity.Paciente> com.dh.clinica.controller.PacienteController.actualizar(com.dh.clinica.entity.Paciente)
+2023-04-05 21:51:55 ERROR GloabalExceptionHandler:25 - Required request body is missing: public org.springframework.http.ResponseEntity<com.dh.clinica.entity.Paciente> com.dh.clinica.controller.PacienteController.actualizar(com.dh.clinica.entity.Paciente)
+2023-04-05 22:03:40 ERROR GloabalExceptionHandler:25 - Required request body is missing: public org.springframework.http.ResponseEntity<com.dh.clinica.entity.Paciente> com.dh.clinica.controller.PacienteController.actualizar(com.dh.clinica.entity.Paciente)
+2023-04-08 14:04:20 ERROR GloabalExceptionHandler:25 - Required request body is missing: public org.springframework.http.ResponseEntity<com.dh.clinica.entity.Paciente> com.dh.clinica.controller.PacienteController.actualizar(com.dh.clinica.entity.Paciente)
+2023-04-08 14:25:54 ERROR GloabalExceptionHandler:25 - Required request body is missing: public org.springframework.http.ResponseEntity<com.dh.clinica.entity.Paciente> com.dh.clinica.controller.PacienteController.actualizar(com.dh.clinica.entity.Paciente)
